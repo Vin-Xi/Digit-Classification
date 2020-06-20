@@ -1,0 +1,15 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+                  {
+        "scope": "meta.function-call.generic.python",
+        "settings": {
+        "foreground": "#90B1F3"
+                    }
+                  }
+                ]
+              }
+}
